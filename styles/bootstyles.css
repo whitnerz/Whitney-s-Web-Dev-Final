@@ -1,0 +1,38 @@
+.graphs{
+    background-color: transparent;
+    border:solid 0px transparent;
+    margin: auto;
+    width: 50%;
+    padding: 0px;
+}
+
+.header{
+    padding-bottom: 12rem; 
+    padding-top: 5rem;
+}
+
+.nav{
+    color: #f2f2f2;
+    text-align: right;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.nav a:link{
+    color:white;
+}
+
+.nav a:visited{
+    color: white;
+}
+
+.foot{
+    text-align: center;
+    font: bold;
+}
+
+p{
+    text-align: center;
+    font: italic;
+    font-weight: bold;
+}
